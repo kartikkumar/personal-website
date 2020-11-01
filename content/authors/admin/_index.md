@@ -71,12 +71,13 @@ user_groups: []
 
 I am an Aerospace Engineer and Planetary Scientist. I've worked on a variety of projects, ranging from the design of space missions to the modeling and simulation of planetary rings.
 
-I'm one of the co-founders at satsearch.co, successfully incubated at the European Space Agency's Business Incubation Centre in Noordwijk, the Netherlands.
+I'm one of the co-founders at [satsearch](https://satsearch.co "satsearch: the global marketplace for the space industry"){:target="_blank"}, successfully incubated at the European Space Agency's Business Incubation Centre in Noordwijk ([ESA BIC Noordwijk](https://www.sbicnoordwijk.nl "ESA BIC Noordwijk"){:target="_blank"}), the Netherlands.
 
-In 2010, I initiated an on-going, open-source project, to develop a toolbox for astrodynamics simulations (Tudat): https://github.com/tudat.
+In 2010, I initiated an on-going, open-source project, to develop a toolbox for astrodynamics simulations called [Tudat](https://github.com/tudat "Tudat on GitHub"){:target="_blank"}. The toolbox is being actively developed and maintained by staff and students in the Astrodynamics & Space missions research group at the Faculty of Aerospace Engineering, Delft University of Technology.
 
-I'm building a new collection of low-level, open-source libraries for space simulation: https://github.com/openastro
+Based on the lessons I learned setting up and developing Tudat, I'm building a new collection of low-level, open-source libraries for space simulation call [openastro](https://github.com/openastro "openastro on GitHub"){:target="_blank"}. Openastro libraries are intended to provide expert users with robust, highly-tested, low-level, functional building blocks to create space simulation software.
 
-I worked as an Experienced Researcher within the Stardust network (EC FP7 Marie Curie ITN), leading projects to develop and design technologies for active debris removal.
-
-From 2015 to 2019, I was an Analog Astronaut for the Austrian Space Forum's Mars simulation missions.
+Some of my other experiences include:
+    - Working as Experienced Researcher (ER) within the Stardust network (EC FP7 Marie Curie ITN), leading projects to develop and design technologies for active debris removal.
+    - Serving as Analog Astronaut from 2015 to 2019 for the Austrian Space Forum's Mars simulation missions
+    - Coordination activities and representation within for the Netherlands as co-National Point of Contact within the Space Generation Advisory Council.
