@@ -78,6 +78,6 @@ In 2010, I initiated an on-going, open-source project, to develop a toolbox for 
 Based on the lessons I learned setting up and developing Tudat, I'm building a new collection of low-level, open-source libraries for space simulation call [openastro](https://github.com/openastro "openastro on GitHub"). Openastro libraries are intended to provide expert users with robust, highly-tested, low-level, functional building blocks to create space simulation software.
 
 Some of my other experiences include:
-    - Working as Experienced Researcher (ER) within the Stardust network (EC FP7 Marie Curie ITN), leading projects to develop and design technologies for active debris removal.
-    - Serving as Analog Astronaut from 2015 to 2019 for the Austrian Space Forum's Mars simulation missions
-    - Coordination activities and representation within for the Netherlands as co-National Point of Contact within the Space Generation Advisory Council.
+- Working as Experienced Researcher (ER) within the Stardust network (EC FP7 Marie Curie ITN), leading projects to develop and design technologies for active debris removal.
+- Serving as Analog Astronaut from 2015 to 2019 for the Austrian Space Forum's Mars simulation missions
+- Coordination activities and representation within for the Netherlands as co-National Point of Contact within the Space Generation Advisory Council.
