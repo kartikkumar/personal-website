@@ -9,9 +9,9 @@ summary: Last October, I had the privilege of giving a virtual talk to students
 draft: false
 featured: false
 tags:
-  - '"mars"'
-  - '"analog missions"'
-  - '"stem"'
+  - "mars"
+  - "analog missions"
+  - "stem"
 image:
   filename: cover-image-nextgen-visions-of-future-mars-habitats.jpg
   focal_point: Smart
