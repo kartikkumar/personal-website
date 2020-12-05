@@ -8,14 +8,18 @@ summary: Last October, I had the privilege of giving a virtual talk to students
   phenomenal.
 draft: false
 featured: false
-tags:
-  - "mars"
-  - "analog missions"
-  - "stem"
+tags: ["mars", "analog missions", "stem"]
+# Featured image
+# To use, place an image named `featured.jpg/png` in your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+# Set `preview_only` to `true` to just use the image for thumbnails.
 image:
-  filename: cover-image-nextgen-visions-of-future-mars-habitats.jpg
-  focal_point: Smart
+  placement: 3
+  caption: "Nextgen visions of future Mars habitats"
+  focal_point: "Smart"
   preview_only: false
+  alt_text: Nextgen visions of future Mars habitats.
 ---
 *Originally posted on <a href="http://oewf.org/en/2016/02/nextgen-visions-of-mars-habitats/" target="_blank">OeWF.org</a>*
 
