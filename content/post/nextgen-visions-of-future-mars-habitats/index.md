@@ -1,11 +1,7 @@
 ---
 title: Nextgen Visions of Future Mars Habitats
 date: 2016-04-02T10:00:00.000Z
-summary: Last October, I had the privilege of giving a virtual talk to students
-  at the Sigaram Academy of Excellence from Mulagumooodu, K.K. Dist, Tamil Nadu,
-  India. At the end of the talk, I challenged them to create and share their
-  visions of future Mars habitats. The response we received at OeWF was
-  phenomenal.
+summary: Last October, I had the privilege of giving a virtual talk to students at the Sigaram Academy of Excellence from Mulagumooodu, K.K. Dist, Tamil Nadu, India. At the end of the talk, I challenged them to create and share their visions of future Mars habitats. The response we received at OeWF was phenomenal.
 draft: false
 featured: false
 tags: ["mars", "analog missions", "stem"]
