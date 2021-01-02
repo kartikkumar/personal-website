@@ -29,13 +29,16 @@ I invited a team of enthusiastic OeWF members and Analog Astronauts to help me r
 
 ## 6th Standard (grade) Winner
 
-<div style="width: 640px">
+![By Rixshana Simson](https://farm2.staticflickr.com/1456/24560915395_afb182ef19_z.jpg){:width:640px}
+*By Rixshana Simson*
+
+<!-- <div style="width: 640px">
   <img src="https://farm2.staticflickr.com/1456/24560915395_afb182ef19_z.jpg" width="640" height="329" class />
 
   <p class="wp-caption-text">
     By Rixshana Simson
   </p>
-</div>
+</div> -->
 
 Rixshana’s vision really captured the imagination of the OeWF judging panel. Somewhat abstract in nature, we felt that Rixshana wonderfully depicted the loneliness of space. The juxtaposition of two docked spacecraft against the grey backdrop of what is presumably the Moon is interesting because the Moon is often considered the gateway to Mars. The abstraction of the Earth near the right bottom of the drawing adds to its mistique. Overall, the judges felt that although Rixshana’s drawing wasn’t of a habitat on Mars, it generated a sense of the vastness of space and the role that the Moon has to play in our quest to land on the Red Planet.
 
