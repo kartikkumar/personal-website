@@ -30,20 +30,14 @@ I invited a team of enthusiastic OeWF members and Analog Astronauts to help me r
 ## 6th Standard (grade) Winner
 
 <img src="https://farm2.staticflickr.com/1456/24560915395_afb182ef19_z.jpg" width="640" height="329" alt="Mars habitat vision by Rixshana Simson" />
-
-*By Rixshana Simson*
+<p style="text-align: center; font-style: italic;">By Rixshana Simson</p>
 
 Rixshana’s vision really captured the imagination of the OeWF judging panel. Somewhat abstract in nature, we felt that Rixshana wonderfully depicted the loneliness of space. The juxtaposition of two docked spacecraft against the grey backdrop of what is presumably the Moon is interesting because the Moon is often considered the gateway to Mars. The abstraction of the Earth near the right bottom of the drawing adds to its mistique. Overall, the judges felt that although Rixshana’s drawing wasn’t of a habitat on Mars, it generated a sense of the vastness of space and the role that the Moon has to play in our quest to land on the Red Planet.
 
 ## 7th Standard (grade) Winner
 
-<div style="width: 640px">
-  <img src="https://farm2.staticflickr.com/1685/24560906135_4005735dce_z.jpg" width="640" height="389" class />
-
-  <p class="wp-caption-text">
-    By Antric K Nayakam
-  </p>
-</div>
+<img src="https://farm2.staticflickr.com/1685/24560906135_4005735dce_z.jpg" width="640" height="389" alt="Mars habitat vision by Antric K Nayakam"/>
+<p style="text-align: center; font-style: italic;">By Antric K Nayakam</p>
 
 The OeWF judges loved Antric’s entry. The simplicity of Antric’s vision of a human habitat on Mars is a reflection of the huge technological, physiological and psychological leap that we have to make before we are in a position to land there safely. The attention to detail in the form of food storage outside the central habitat and the communication dish on top of its roof is commendable. Although Mars does not currently have active volcanoes, they are an important ingredient in our current understanding of how various geological features came to be. For instance, Olympus Mons, belonging to the Tharsis Complex, is not just an inactive volcano, it is also the highest mountain in the Solar System, standing at over three times the height of Mount Everest! This reflection on the past, in contrast with the future vision of a habitat on Mars truly captivated the OeWF judges.
 
