@@ -20,11 +20,11 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Co-founder & CEO"
   company = "satsearch"
-  company_url = "https://satsearch.co"
+  company_url = "https://satsearch.com"
   location = "Noordwijk, the Netherlands"
   date_start = "2016-01-01"
   date_end = ""
   description = """
-  Building the global marketplace for space
+  The global marketplace for space. Helping space engineers source products & services from global suppliers for ground, launch, and space systems.
   """
 +++
