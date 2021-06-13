@@ -15,6 +15,14 @@ Yes, I’m talking about the Austrian Space Forum’s (OeWF) Aouda spacesuit sim
 
 We were put through our paces during the Analog Astronaut basic training program. The rigorous regimen was aimed at giving us a thorough grounding in all the basic skills required to successfully execute a Mars simulation mission. Specifically, the training program consisted of five blocks at OeWF Spacesuit Laboratory, spread over three months, in addition to plenty of homework. During the training program, we were exposed to a wide array of topics, including: geology, spaceflight mechanics, first aid, firefighting, team building, media training, physical exercise and so much more!
 
+<div style="width: 300">
+  <img src="https://farm2.staticflickr.com/1685/24560906135_4005735dce_z.jpg" width="640" height="389" class />
+
+  <p class="wp-caption-text">
+    By Antric K Nayakam
+  </p>
+</div>
+
 <!-- [caption id="attachment_624" align="aligncenter" width="300"][![X-Ray: Joao Lousada (left), Sierra: Kartik Kumar (right) (c) OeWF (Paul Santek)](http://www.kartikkumar.com/wp-content/uploads/2015/07/xray-sierra_psantek-300x230.jpg)
 ](http://www.kartikkumar.com/wp-content/uploads/2015/07/xray-sierra_psantek.jpg) X-Ray: Joao Lousada (left), Sierra: Kartik Kumar (right) (c) OeWF (Paul Santek)[/caption] -->
 
@@ -27,11 +35,9 @@ The most significant similarity for an Analog Astronaut stems from the unique fe
 
 As we look forward to the AMADEE-15 mission this summer, I can appreciate the wonderful opportunity I’ve been given to participate in a program of research that has already reaped so many rewards for future manned Mars mission planners. Having attempted to give you a sense of what it’s like to don an OeWF suit simulator, I must leave you with ode to X-ray and Sierra:
 
-<blockquote>
-Silver, slick, sensational
-Source of life
-Reliable, dependable, ever-present
-Lean, excitable, wonderful
-Friends for life
-Making the impossible possible
-</blockquote>
+*Silver, slick, sensational*
+*Source of life*
+*Reliable, dependable, ever-present*
+*Lean, excitable, wonderful*
+*Friends for life*
+*Making the impossible possible*
