@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:me@kartikkumar.com".
+  link: 'mailto:me@kartikkumar.com'  # For a direct email link, use "mailto:me@kartikkumar.com".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/karkum84
