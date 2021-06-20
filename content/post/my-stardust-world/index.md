@@ -1,7 +1,7 @@
 ---
 title: My Stardust world
 date: 2015-06-09 21:52:01+00:00
-summary: Last October, I had the privilege of giving a virtual talk to students at the Sigaram Academy of Excellence from Mulagumooodu, K.K. Dist, Tamil Nadu, India. At the end of the talk, I challenged them to create and share their visions of future Mars habitats. The response we received at OeWF was phenomenal.
+summary: The Stardust network affords me the opportunity to pursue challenging, innovative, and meaningful research, whilst simultaneously providing me with the chance to build a professional network and develop a variety of skills that are essential to early-stage researchers.
 draft: false
 featured: false
 tags: ["space","work"]
