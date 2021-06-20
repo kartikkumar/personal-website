@@ -56,6 +56,9 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/kumarkartik
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "me@kartikkumar.com"
