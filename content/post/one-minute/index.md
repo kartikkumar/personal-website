@@ -1,5 +1,5 @@
 ---
-title: My Stardust world
+title: One Minute
 date: 2014-07-23 14:31:01+00:00
 #summary:
 draft: false
