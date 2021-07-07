@@ -14,7 +14,7 @@ organizations:
   url: "https://satsearch.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Kartik is an aerospace engineer and planetary science with degrees from Delft University of Technology in the Netherlands. He is currently co-founder and CEO at satsearch, where he is working on democratizing access to the global commercial space market.
+bio: Kartik is an aerospace engineer and planetary scientist with degrees from Delft University of Technology in the Netherlands. He is currently co-founder and CEO at satsearch, a European Space Agency startup that is working on democratizing access to the global commercial space market.
 
 interests:
 - Space Engineering
